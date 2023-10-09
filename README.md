@@ -5,7 +5,8 @@
 
 <a href="https://www.packtpub.com/in/data/learn-power-bi?utm_source=github&utm_medium=repository&utm_campaign=9781838644482"><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781838644482-original.png" alt="Learn Power BI" height="256px" align="right"></a>
 
-This is the code repository for [Learn Power BI](https://www.packtpub.com/in/data/learn-power-bi?utm_source=github&utm_medium=repository&utm_campaign=9781838644482), published by Packt.
+This is my learning path - Joyce Leung 
+the code repository for [Learn Power BI](https://www.packtpub.com/in/data/learn-power-bi?utm_source=github&utm_medium=repository&utm_campaign=9781838644482)
 
 **A beginner's guide to developing interactive business intelligence solutions using Microsoft Power BI**
 
